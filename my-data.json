@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Product": 4
+  },
+  "models": {
+    "Product": {
+      "1": "{\"name\":\"Node.js course\",\"qty\":5,\"id\":1}",
+      "2": "{\"name\":\"Python course\",\"qty\":15,\"id\":2}",
+      "3": "{\"name\":\"Angular js course\",\"qty\":10,\"id\":3}"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "db": {
+    "name": "db",
+    "localStorage": "",
+    "file": "my-data.json",
+    "connector": "memory"
+  },
+  "local-mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "loopback-db",
+    "password": "",
+    "name": "local-mongo",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
